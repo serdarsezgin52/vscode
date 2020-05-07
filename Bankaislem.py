@@ -1,0 +1,13 @@
+from ClassBankaUyg import BankaHesabi
+serdar=BankaHesabi(65000)
+rahşan=BankaHesabi(25000)
+serdar.Parayatirma(18000)
+print("Serdarın Hesabında {} TL para vardır..".format(serdar.kalanPara))
+serdar.havale(13000,rahşan)
+print("Rahşanın Hesabında {} TL para vardır".format(rahşan.kalanPara))
+print("Serdarın Hesabında {} TL para vardır".format(serdar.kalanPara))
+sezer=BankaHesabi()
+print(sezer.kalanPara)
+serdar.havale(5000,sezer)
+print(sezer.kalanPara)
+print(serdar.kalanPara)

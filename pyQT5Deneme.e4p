@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Project SYSTEM "Project-5.1.dtd">
+<!-- eric project file for project pyQT5Deneme -->
+<!-- Saved: 2020-04-20, 00:51:32 -->
+<!-- Copyright (C) 2020 ,  -->
+<Project version="5.1">
+  <Language>en_US</Language>
+  <Hash>082b05f87cdbe56e77abc5120e3660f545b9346b</Hash>
+  <ProgLanguage mixed="1">Python3</ProgLanguage>
+  <ProjectType>PyQt5</ProjectType>
+  <Version>0.1</Version>
+  <Author></Author>
+  <Email></Email>
+  <Eol index="0"/>
+  <Sources>
+    <Source>Bankaislem.py</Source>
+    <Source>ClassBankaUyg.py</Source>
+    <Source>ClassHayvanalar.py</Source>
+    <Source>ClassMiras.py</Source>
+    <Source>HTTP01.py</Source>
+    <Source>NewTextOku.py</Source>
+    <Source>__init__.py</Source>
+    <Source>classHesMak.py</Source>
+    <Source>dosyaislemleri.py</Source>
+    <Source>duzenlifadeler.py</Source>
+    <Source>duzenlifadeler2.py</Source>
+    <Source>employee.py</Source>
+    <Source>ericdeneme.py</Source>
+    <Source>fonklambda.py</Source>
+    <Source>fonkmap.py</Source>
+    <Source>fonksiyon.py</Source>
+    <Source>fonksiyon01.py</Source>
+    <Source>fonksiyonMenu.py</Source>
+    <Source>fonksiyon_deneme.py</Source>
+    <Source>fonksiyon_temp.py</Source>
+    <Source>forFonksionu.py</Source>
+    <Source>havaapi.py</Source>
+    <Source>intuyg.py</Source>
+    <Source>mysqldeneme.py</Source>
+    <Source>pickle_1.py</Source>
+    <Source>poplibMod.py</Source>
+    <Source>poplibMod_2.py</Source>
+    <Source>poplibMod_3.py</Source>
+    <Source>sayisalLoto.py</Source>
+    <Source>sqlite.py</Source>
+    <Source>sqlite02.py</Source>
+    <Source>sqlite03.py</Source>
+    <Source>sqlite_demo.py</Source>
+    <Source>tkinter_01.py</Source>
+    <Source>tkinter_010py.py</Source>
+    <Source>tkinter_011.py</Source>
+    <Source>tkinter_012.py</Source>
+    <Source>tkinter_013.py</Source>
+    <Source>tkinter_014.py</Source>
+    <Source>tkinter_015.py</Source>
+    <Source>tkinter_016.py</Source>
+    <Source>tkinter_017.py</Source>
+    <Source>tkinter_018.py</Source>
+    <Source>tkinter_019.py</Source>
+    <Source>tkinter_02.py</Source>
+    <Source>tkinter_020.py</Source>
+    <Source>tkinter_021.py</Source>
+    <Source>tkinter_022.py</Source>
+    <Source>tkinter_023.py</Source>
+    <Source>tkinter_03.py</Source>
+    <Source>tkinter_04.py</Source>
+    <Source>tkinter_05.py</Source>
+    <Source>tkinter_06.py</Source>
+    <Source>tkinter_07.py</Source>
+    <Source>tkinter_08.py</Source>
+    <Source>tkinter_09.py</Source>
+    <Source>try_except.py</Source>
+    <Source>untitled1.py</Source>
+    <Source>veritabani-shelve.py</Source>
+    <Source>withWriteRead copy.py</Source>
+    <Source>withWriteRead.py</Source>
+  </Sources>
+  <Others>
+    <Other>Python.txt</Other>
+    <Other>dosya_1.txt</Other>
+  </Others>
+  <Vcs>
+    <VcsType>None</VcsType>
+  </Vcs>
+  <FiletypeAssociations>
+    <FiletypeAssociation pattern="*.e4p" type="OTHERS"/>
+    <FiletypeAssociation pattern="*.idl" type="INTERFACES"/>
+    <FiletypeAssociation pattern="*.js" type="SOURCES"/>
+    <FiletypeAssociation pattern="*.md" type="OTHERS"/>
+    <FiletypeAssociation pattern="*.proto" type="PROTOCOLS"/>
+    <FiletypeAssociation pattern="*.ptl" type="SOURCES"/>
+    <FiletypeAssociation pattern="*.py" type="SOURCES"/>
+    <FiletypeAssociation pattern="*.py2" type="SOURCES"/>
+    <FiletypeAssociation pattern="*.py3" type="SOURCES"/>
+    <FiletypeAssociation pattern="*.pyw" type="SOURCES"/>
+    <FiletypeAssociation pattern="*.pyw2" type="SOURCES"/>
+    <FiletypeAssociation pattern="*.pyw3" type="SOURCES"/>
+    <FiletypeAssociation pattern="*.qm" type="TRANSLATIONS"/>
+    <FiletypeAssociation pattern="*.qrc" type="RESOURCES"/>
+    <FiletypeAssociation pattern="*.rb" type="SOURCES"/>
+    <FiletypeAssociation pattern="*.rst" type="OTHERS"/>
+    <FiletypeAssociation pattern="*.ts" type="TRANSLATIONS"/>
+    <FiletypeAssociation pattern="*.txt" type="OTHERS"/>
+    <FiletypeAssociation pattern="*.ui" type="FORMS"/>
+    <FiletypeAssociation pattern="GNUmakefile" type="OTHERS"/>
+    <FiletypeAssociation pattern="Makefile" type="OTHERS"/>
+    <FiletypeAssociation pattern="README" type="OTHERS"/>
+    <FiletypeAssociation pattern="README.*" type="OTHERS"/>
+    <FiletypeAssociation pattern="makefile" type="OTHERS"/>
+  </FiletypeAssociations>
+</Project>
